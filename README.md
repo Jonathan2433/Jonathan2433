@@ -27,5 +27,7 @@ Mes projets open-source 💻
 - Portfolio 💼
 
 Me contacter 📩
+
 Portfolio Freelance : https://portfolio.jonathan-dupau.com/ 💼
+
 Twitch : https://www.twitch.tv/dev_optic 📹

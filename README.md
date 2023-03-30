@@ -1,7 +1,9 @@
 Jonathan Dupau - DataScientist, Développeur web Fullstack Freelance et Streamer sur Twitch 😎👨‍💻🚀
 
 Bonjour ! 
+
 Je suis Jonathan, un développeur passionné par la Data et le développement web. 
+
 Pendant mes temps libres, je suis également Streamer sur Twitch où je partage mes connaissances et mes projets en Live Code.
 
 Mon parcours 📚

@@ -11,9 +11,9 @@ Mon parcours 📚
 - Compétences DATA : Python, Jupyter, Pandas, Scikit-Learn, DataViz 💹
 
 Projets en cours 🚀
-- [Prédiction du prix d'une course de taxi 🚕]([https://mon-site-web.com](https://github.com/Jonathan2433/prediction_taxi_fare))
-- [Prédiction du prix de vente d'un logement🏠]([https://mon-site-web.com](https://github.com/Jonathan2433/analyse-valeur-fonciere-2021))
-- [Clusterisation de communauté Twitch 🎮]([https://mon-site-web.com](https://github.com/Jonathan2433/twitch_users_map))
+- [Prédiction du prix d'une course de taxi]([https://mon-site-web.com](https://github.com/Jonathan2433/prediction_taxi_fare))🚕
+- [Prédiction du prix de vente d'un logement]([https://mon-site-web.com](https://github.com/Jonathan2433/analyse-valeur-fonciere-2021))🏠
+- [Clusterisation de communauté Twitch]([https://mon-site-web.com](https://github.com/Jonathan2433/twitch_users_map))🎮
 
 Mes streams sur Twitch 📹
 - Live Code en développement web, Data Science et Intelligence Artificielle 🚀🤖

@@ -10,21 +10,15 @@ Mon parcours 📚
 - Compétences Web : Symfony, PHP, Twig, MySQL, HTML, CSS et JavaScript 💻
 - Compétences DATA : Python, Jupyter, Pandas, Scikit-Learn, DataViz 💹
 
-Mes projets 🚀
-- Prédiction du prix d'une course de taxi 🚕
-- Prédiction du prix de vente d'un logement🏠
-- Clusterisation de communauté Twitch 🎮
-- Portfolio 💼
+Projets en cours 🚀
+- [Prédiction du prix d'une course de taxi 🚕]([https://mon-site-web.com](https://github.com/Jonathan2433/prediction_taxi_fare))
+- [Prédiction du prix de vente d'un logement🏠]([https://mon-site-web.com](https://github.com/Jonathan2433/analyse-valeur-fonciere-2021))
+- [Clusterisation de communauté Twitch 🎮]([https://mon-site-web.com](https://github.com/Jonathan2433/twitch_users_map))
 
 Mes streams sur Twitch 📹
 - Live Code en développement web, Data Science et Intelligence Artificielle 🚀🤖
 - Des projets pour les novices comme les experts 🙌
 - Une Emission type Quizz Question pour un Développeur 📺
-
-Mes projets open-source 💻
-- Prediction_taxi_fare (IA) 🤖
-- Twitch_users_map (scrapping et visualisation de données pour Twitch) 📊🎮
-- Portfolio 💼
 
 Me contacter 📩
 

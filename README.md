@@ -1,4 +1,4 @@
-Jonathan Dupau - DataScientist, Développeur web Fullstack Freelance et Streamer sur Twitch 😎👨‍💻🚀
+Jonathan Dupau - DataScientist, Développeur web Fullstack Freelance, Formateur et Streamer sur Twitch 😎👨‍💻🚀
 
 Bonjour ! 
 

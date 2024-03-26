@@ -18,7 +18,7 @@ Projets en cours 🚀
 - [Clusterisation de communauté Twitch](https://github.com/Jonathan2433/twitch_users_map)🎮
 
 Mes streams sur Twitch 📹
-- Live Code en développement web, Data Science et Intelligence Artificielle 🚀🤖
+- Live Code Data 🚀🤖
 - Des projets pour les novices comme les experts 🙌
 - Une Emission type Quizz Question pour un Développeur 📺
 
